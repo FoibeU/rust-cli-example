@@ -55,7 +55,7 @@ Explore additional content that you can use to learn more about the topics cover
 - [Python and Pandas for Data Engineering](https://www.coursera.org/learn/python-and-pandas-for-data-engineering-duke)
 - [Scripting with Python and SQL for Data Engineering](https://www.coursera.org/learn/scripting-with-python-sql-for-data-engineering-duke)
 
-**O'Reilly Courses and Books**
+**O'Reilly Courses and Books** for real
 
 - [Python for DevOps](https://www.oreilly.com/library/view/python-for-devops/9781492057680/) (Book)
 - [Practical MLOps](https://www.oreilly.com/library/view/practical-mlops/9781098103002/) (Book)
