@@ -1,0 +1,7 @@
+on:
+  push:
+    branches:
+      - main  # Runs when you push to main
+  pull_request:
+    branches:
+      - main  # Runs when a PR is created/updated to main
